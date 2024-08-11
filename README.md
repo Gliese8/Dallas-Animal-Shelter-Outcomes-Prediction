@@ -18,3 +18,6 @@ Animal shelters face numerous challenges, including limited resources and capaci
 
 ### Proposed Solution:
 The proposed solution is to utilize classification algorithms to predict the outcomes of animals entering the Dallas Animal Shelter. By analyzing the data on animal characteristics, intake circumstances, and previous outcomes, we can develop a predictive model able to identifies the likely outcome for each animal. This proactive approach enables the shelter to allocate resources more effectively, prioritize interventions, and improve overall animal welfare.
+
+### Instructions:
+Instructions for Using the Classification Script are provided in the attached pdf file.
